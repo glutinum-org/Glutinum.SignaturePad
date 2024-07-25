@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "devDependencies": {
+        "@types/node": "^20.14.12",
+        "@vitejs/plugin-react": "^4.3.0",
+        "signature_pad": "^5.0.2",
+        "vite": "^5.2.13"
+    }
+}

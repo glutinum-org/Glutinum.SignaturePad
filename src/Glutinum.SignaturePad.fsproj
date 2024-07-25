@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <Compile Include="Point.fs" />
+        <Compile Include="SignatureEventTarget.fs" />
+        <Compile Include="Exports.fs" />
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="Fable.Browser.Dom" />
+        <PackageReference Include="Fable.Browser.Event" />
+        <PackageReference Include="Fable.Core" />
+        <PackageReference Include="Fable.Package.SDK" />
+    </ItemGroup>
+</Project>
