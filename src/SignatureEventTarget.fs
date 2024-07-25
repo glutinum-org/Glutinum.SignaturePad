@@ -1,4 +1,4 @@
-module rec Glutinum.SignaturePad.SignatureEventTarget
+namespace rec Glutinum.SignaturePad.SignatureEventTarget
 
 open Fable.Core
 open Fable.Core.JsInterop

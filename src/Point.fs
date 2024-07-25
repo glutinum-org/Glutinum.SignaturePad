@@ -1,4 +1,4 @@
-module rec Glutinum.SignaturePad.Point
+namespace rec Glutinum.SignaturePad.Point
 
 open Fable.Core
 

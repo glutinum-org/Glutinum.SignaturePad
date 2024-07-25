@@ -1,4 +1,4 @@
-module rec Glutinum.SignaturePad
+namespace rec Glutinum.SignaturePad
 
 open Fable.Core
 open Fable.Core.JsInterop
